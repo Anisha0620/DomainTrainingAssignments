@@ -1,0 +1,14 @@
+C:\Users\anish\Desktop\Assignment C# (Day 3 and 4)\LibraryApp\LibraryApp\bin\Debug\net6.0\CustomSerializerApp.exe
+C:\Users\anish\Desktop\Assignment C# (Day 3 and 4)\LibraryApp\LibraryApp\bin\Debug\net6.0\CustomSerializerApp.deps.json
+C:\Users\anish\Desktop\Assignment C# (Day 3 and 4)\LibraryApp\LibraryApp\bin\Debug\net6.0\CustomSerializerApp.runtimeconfig.json
+C:\Users\anish\Desktop\Assignment C# (Day 3 and 4)\LibraryApp\LibraryApp\bin\Debug\net6.0\CustomSerializerApp.dll
+C:\Users\anish\Desktop\Assignment C# (Day 3 and 4)\LibraryApp\LibraryApp\bin\Debug\net6.0\CustomSerializerApp.pdb
+C:\Users\anish\Desktop\Assignment C# (Day 3 and 4)\LibraryApp\LibraryApp\obj\Debug\net6.0\CustomSerializerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anish\Desktop\Assignment C# (Day 3 and 4)\LibraryApp\LibraryApp\obj\Debug\net6.0\CustomSerializerApp.AssemblyInfoInputs.cache
+C:\Users\anish\Desktop\Assignment C# (Day 3 and 4)\LibraryApp\LibraryApp\obj\Debug\net6.0\CustomSerializerApp.AssemblyInfo.cs
+C:\Users\anish\Desktop\Assignment C# (Day 3 and 4)\LibraryApp\LibraryApp\obj\Debug\net6.0\CustomSerializerApp.csproj.CoreCompileInputs.cache
+C:\Users\anish\Desktop\Assignment C# (Day 3 and 4)\LibraryApp\LibraryApp\obj\Debug\net6.0\CustomSerializerApp.dll
+C:\Users\anish\Desktop\Assignment C# (Day 3 and 4)\LibraryApp\LibraryApp\obj\Debug\net6.0\refint\CustomSerializerApp.dll
+C:\Users\anish\Desktop\Assignment C# (Day 3 and 4)\LibraryApp\LibraryApp\obj\Debug\net6.0\CustomSerializerApp.pdb
+C:\Users\anish\Desktop\Assignment C# (Day 3 and 4)\LibraryApp\LibraryApp\obj\Debug\net6.0\CustomSerializerApp.genruntimeconfig.cache
+C:\Users\anish\Desktop\Assignment C# (Day 3 and 4)\LibraryApp\LibraryApp\obj\Debug\net6.0\ref\CustomSerializerApp.dll
