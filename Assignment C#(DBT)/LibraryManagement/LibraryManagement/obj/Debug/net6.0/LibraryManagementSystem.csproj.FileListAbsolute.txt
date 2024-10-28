@@ -1,0 +1,14 @@
+C:\Users\anish\Desktop\Assignment C#(DBT)\LibraryManagement\LibraryManagement\bin\Debug\net6.0\LibraryManagementSystem.exe
+C:\Users\anish\Desktop\Assignment C#(DBT)\LibraryManagement\LibraryManagement\bin\Debug\net6.0\LibraryManagementSystem.deps.json
+C:\Users\anish\Desktop\Assignment C#(DBT)\LibraryManagement\LibraryManagement\bin\Debug\net6.0\LibraryManagementSystem.runtimeconfig.json
+C:\Users\anish\Desktop\Assignment C#(DBT)\LibraryManagement\LibraryManagement\bin\Debug\net6.0\LibraryManagementSystem.dll
+C:\Users\anish\Desktop\Assignment C#(DBT)\LibraryManagement\LibraryManagement\bin\Debug\net6.0\LibraryManagementSystem.pdb
+C:\Users\anish\Desktop\Assignment C#(DBT)\LibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anish\Desktop\Assignment C#(DBT)\LibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\anish\Desktop\Assignment C#(DBT)\LibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagementSystem.AssemblyInfo.cs
+C:\Users\anish\Desktop\Assignment C#(DBT)\LibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\anish\Desktop\Assignment C#(DBT)\LibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagementSystem.dll
+C:\Users\anish\Desktop\Assignment C#(DBT)\LibraryManagement\LibraryManagement\obj\Debug\net6.0\refint\LibraryManagementSystem.dll
+C:\Users\anish\Desktop\Assignment C#(DBT)\LibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagementSystem.pdb
+C:\Users\anish\Desktop\Assignment C#(DBT)\LibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagementSystem.genruntimeconfig.cache
+C:\Users\anish\Desktop\Assignment C#(DBT)\LibraryManagement\LibraryManagement\obj\Debug\net6.0\ref\LibraryManagementSystem.dll
